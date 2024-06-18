@@ -11,7 +11,7 @@ const airdrops = [
     name: "BLUM",
     date: "September 2024",
     image: "/blum.png",
-    link: "t.me/BlumCryptoBot/app?startapp=ref_DlrerK00aH",
+    link: "https://t.me/BlumCryptoBot/app?startapp=ref_DlrerK00aH",
   },
   {
     name: "PIXELVERSE",
