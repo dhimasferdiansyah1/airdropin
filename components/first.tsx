@@ -57,7 +57,7 @@ const airdrops = [
   },
   {
     name: "YESCOIN",
-    date: "jUNI 2024",
+    date: "Juni 2024",
     image: "/yescoin.jpg",
     link: "https://t.me/theYescoin_bot/Yescoin?startapp=RVEtli",
   },
